@@ -1,0 +1,26 @@
+*encounter1*
+So you are the newlander who took up the scales.  I am Bolormaa, the Keeper of the Pillars of Yhomstad.
+The pillars?  Those are new since last I came here.
+I protect our Family, Generosity, and Honor.  The pillars of a successful community.
+I see.  Well? Pleasure to meet you.  What can I do for you?
+I'm simply here to be neighborly.  And because I had a suspicion.  But yes, on behalf of the council of elders, I welcome you.  Are there any questions I can answer for you?
+Suspicions are healthy.  What about? 
+You remind me of...Gah, it was many years ago.  The boy likely died in a worm's belly somewhere in the godless wastes.  And my memory is old.
+The Council?
+Oh, forgive me, you are new.  The town is ruled by a Council of Elders born of descendants of Yhorm's brave adventurers.
+Last I came through here, Yhorm still was Jarl here.
+We have done away with Jarls after Yhorm.  None of his kinsmen could agree so they put off the election.  They still haven't gone around to it and since they are in their graves they likely never will.
+Likely?
+You never know.  Karl's brother Tym has been working on a necromonicon.  We humor the poor lad but his bark-book has yet to raise a single wight.  Someday though.
+We can hope I suppose.
+Anyways, I'll leave you now.  Pillars be with you.
+*encounter2*
+May the Pillars always be over your head.
+And yours. What do you need?
+Merely to check on you. You are doing well for yourself I see."
+I manage.
+I don't suppose in your adventuring day you ever came across an idol of the Ascended One.
+You followed the Ascended One?
+No but my mother did. She came from Byzhan. She would fast every saturday, hoping to ascend in her next life.
+I never put much stock in my next life.
+Neither did I, but I put some in my family. When she passed I sold her jade figurine. Maybe I'll see it again. Anyways, I should go.

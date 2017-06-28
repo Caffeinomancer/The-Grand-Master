@@ -1,0 +1,33 @@
+$small toll
+G-G-Grandmaster. There's a troll in the market!
+He just came into the village!  He almost got me and Yngvar but I dived under some wagons and crawled here.
+He drove everyone from the square and now he's just... standing there! Waiting. 
+Pillars above! Say something man!
+Please, you have to help.  I...I'll stay here and hide!
+$big troll
+Old Man! Farmer Hus asks for aid, says he has a troll problem. Again. 
+Trudged its way down the mountainside, wandered into his crops. 
+And I don't think the whelps could handle this one either. He's an old one; huge and angry! 
+I'd do it myself but... well, I've got other prey in mind.
+I'll let you take the glory for this kill. Hus says he last spotted it wandering out into the tundra.
+$ice worm
+Heya Grand Master! We found another worm in the Godless Waste!
+It's been holding up all the caravan traffic to the Summit. Carts strewn about everywhere.
+It sensed us but the worm...It just watched us run.
+Being awfully cryptic today boss.  What'cha thinking?
+(Awkward Pensive Silence)
+Anyways, if you head out you could probably catch it in a day or two!
+$fire worm
+Old Man! I come bearing great news!
+Two worms! Two worms were spotted to the west! One for me, and one for you! Glory all around, eh?
+And if that ain't enough for you, they were last seen laying waste to Pyren Farstad! 
+And disrupting trade, no doubt. Can't think of anything more motivating.
+I'm going to be tracking that other beast.
+Now, how about you and me go Worm Hunting, eh?
+$final boss
+Grand Master! We were tracking the troll that attacked Pyren Farstad and you might want to hear this.
+We found the troll making camp near the coastline. It was standing next to a water...with a worm. It was like they were...talking.
+Grand Master, do you...do you know anything about this? You are always so...so calm. Its like...
+Pillars above, what if they know.
+But we need you right now.  More then ever.
+I'll...I'll tell the village if you don't return. Good hunting.

@@ -1,0 +1,5 @@
+You are too kind, Grandmaster. The taxman isn't. If you don't have the money to pay Captain Yngvar by the end of the week or you'll be having this conversation with your replacement. In the meantime. I'm looking for something to eat.
+*encounter 2
+How've you managed? I thought you were as thick as worm chiten.  Well I'm I here, you might as well supply me. I'm headed on a long journey and I don't think I feel like returning.
+*encounter 3
+So you've done it. Congrats. I didn't expect you to still be here when I got back from my trip to Roneva. But I think no matter what my home's going to be wherever this damn shop is.

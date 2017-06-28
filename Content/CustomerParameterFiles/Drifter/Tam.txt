@@ -1,0 +1,62 @@
+$encounter1$
+Menda Grandmaster! I just wanted to talk before I go on my next quest. Could you teach me how to use that halberd? It's so impressive and I'm trying to decide on a style for my fighting, one like yours!
+Haha, I'm sorry but not my personal halberd. Perhaps you can train with your own one day.
+But yours is unique. GUNPOWDER? Explosions? Please?
+You need to find your own style. Don't just mimic my own.
+My own style? Huh. I don't know why my style is yet. Karl's? No, no. I'll have to think on that.
+Alright then, I'll leave you for now. Goodbye, Grand Master.
+$encounter2$
+Grand Master! Come! We need to go!
+What are you planning, Tam?
+I'm not planning anything. I just wanted you to come with me to the tavern!
+Oh. No thank you Tam, I'd like to remain here.
+I figured you wouldn't come if I told you where. Why can't you just hang out with me once in a while?
+Don't you have a friend or family that could go with you?
+I don't want anything bad to happen to Karl and well... my family is gone.
+Ah. Died then?
+Yes, a long time ago. When I cleared my home of monsters, it was for them. That place was long abandoned.
+So I'll head to the tavern anyway then. I'll come by again soon. Don't forget, if you have a quest for me, don't hesitate to send me!
+$encounter3$
+Menda. Can we talk for the moment?
+I have time, what's wrong Tam?
+I suppose nothing much is wrong but still, lets talk.
+There was a man outside the tavern I went to. He was poking at people, prodding them, provoking them!
+A couple people actually fought him and... he killed them. I was hoping you could handle the man.
+Well, I could, but couldn't you? You could handle a drunken whelp after the quests I've given you.
+You think I could? Should I kill him or not? I mean, he's a murderer.
+Only if it comes to that, don't go in the fight intending to murder.
+Of course Grand Master. I won't be like him. Thanks for the advice, good luck Grand Master.
+$encounter 4$
+Grandmaster.  Menda.
+Menda. Pillars hold you up.
+Have you ever wondered about those swords in the desert?
+Giant made swords? Yes I have.
+Where did the giants go?
+They died off. Years ago.
+Well...I was thinking, what if trolls were descended from them.
+Pardon?
+What if trolls are just the far off children of the giants and those swords...
+Trolls are too small.
+Wait! Bear with me!  We have dogs that descended from wolves and they are much smaller then those.
+Are you suggesting trolls are dogs?
+Well, no I...
+Trolls are dumb beasts.  Nothing more.
+But-
+Don't think too deeply on this.
+Oh.  Um. Alright.  I'll talk to you later.
+$encounter 5$
+Grandmaster! We found it!
+What is the matter lass?
+The worm in the godless waste!  Well...Karl did at least.
+Karl tracked it?
+Not exactly.  He got swallowed by it.
+He got...swallowed?
+Don't worry!  He's better now!  He got spit out!  
+That's a relief.
+But the worm.  It just watched us run.
+Don't worry about that lass.  I'll handle it.
+But sir, you are-
+Old enough to have fought these things before.
+Sir-
+Wash up Karl.  I'll be back.
+Yes sir!

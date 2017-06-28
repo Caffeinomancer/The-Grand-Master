@@ -1,0 +1,86 @@
+*encounter1
+My Yhomstad has changed in the years I've been away. I figured I'd see Knarr's famous smoke hole but was not expecting to see you.
+Caizen you Mudak, is that you?
+In the flesh. When was the last time I saw you...
+A life time ago on that day in the Manan Forest with Cassia...
+Ahhh....yes. I almost forgot, or at least been trying to forget about her -BUT Menda! This is a joyous occasion, let's not sour this moment.
+Here and there. Rode with a caravan along the Summit, visited home in the Emerald Mountains but I honestly missed trollfish too much!
+Surely it was more then your love of trollfish that has brought you back here?
+HA HA! Just because they call you the Grand Master, doesn't mean everyone will be running to hear your war stories. I know your real name,
+They don't need to know that...
+I "joke"... I was actually in your people's homelands. But honestly, it's the trollfish, Yhomstad does it best.
+Caizen you are always welcome to my shop. I'll be sure to have trollfish in stock for you always.
+My thanks. You were always a true Varag of fufilled Vars. 
+Asena's Wisdom be upon you.
+You remember the words. After all those fireside talks I guess I've finally cultured you. This shop is well kept. If it's run by a man like you I'd figured it look like a troll's den.
+Funny story. A troll wandered into the village earlier. Luckily I still had the strength to take it down.
+Ha ha ha... look at us now. Some old men with no fight but only memories of them. 
+I've taken in a few apprentices. Tales of the Grandmaster and his traveling companions has inspired a new generation. 
+After I've had my fill of trollfish and finish my business I'll return and perhaps teach one of your apprentices a thing or two. For old times sake. With that I depart.
+*encounter2
+I still can't get over the fact you retired to shop keeping.
+And I've yet to see your legs ever stop moving.
+I needed to rest my legs so I'm here at the inn for a few days.
+So, are you happy with this life in Yhomstad?
+I give advice to up and coming warriors and dissuade the not so courageous from trying to prove themselves as something they're not.
+Remember the trick to selling an item is reading the customer. Pay attention to their needs but also who they are and how they dress. Quite often you'll realize how much they are willing to pay.
+I've made Yngvar's collections so far, and haven't' closed down yet.
+Just wanted to check in before I head to my room in the inn. I'll be seeing you soon.
+*encounter 3
+Sal, Grand master. I've come to bargain.
+Alright, I'm listening
+I'm in need of some muscle. I know you're busy running your shop. Lend me one of your adventurers. I promise they'll return with something new.
+Of course, I know the perfect choice.
+Grasi. I'll mark your map, have them meet me there.
+*encounter 4
+Menda, Grand Master! I was wondering if we could reminisce about the old days.
+Anything in particular my friend?
+Well, back when I was your employer, remember that time we passed through Roneva?
+I do, we were there for weeks. Anything specific?
+Well... we'll get to her. But the whelps, the ruffians that tried to mess with us the day before we left.
+Is this about what I did to them?
+Yes I... wanted to know if you ever think back to that moment, to why you did it?
+I don't regret a thing, those whelps asked for it.
+I see you have not changed entirely old man. Anyway, if you felt it was necessary, I understand. I just wanted to bring that up, just as an example. Back then, you were quite the over-confident mudak! Hahah!4
+Same to you, hahah! 
+Haha, well, until next time Grand Master!
+*encounter 5
+Menda, Grand Master. Ready to revisit old memories with me again my friend?
+Before that, I was curious as to what you've been up to.
+Ah, you mean outside of borrowing your adventurers? I'm just trying to continue my work, sort of like you have been.
+Nothing too interesting, mind you. So anyway, I wanted to dig another memory out of the ground.
+Last time I was here I brought up our time in Roneva.
+Is this about the trouble we found towards the end of our visit there?
+No, we won't have to revisit that. I was thinking about what happened after that.
+You want to talk about her?
+Briefly... I just wanted to talk about it because that's the moment we became more than employer and bodyguard.
+When she joined us we became a trio of adventurers, a team. I... GAH! Nevermind, Grand Master, I...  I don't mean to dredge this up again.
+Then we'll keep it in the past, there's no need to bring this up.
+Yes, you're right I'll... leave it there. I'll try to come by again, hire one of your adventurers. For now, I'll leave you to it.
+*encounter 8
+Let's talk.
+Everything alright?
+Nothing has been alright since Cassia died. Twenty years ago I left you but I carried with me words unsaid. I was filled with anger and knew if I didn't distance myself from you I'd lash out.
+Why do you think I ran to Yhomstad and called myself Grand Master?
+I see. Let me say my peace and my heart won't be so weary. I brought you into this world when you were a lost Varag fresh off the boat. Eventually you became more famous than me, but at least Cassia made me feel like a person. She was my love, and you were like a brother. She's gone. I'm tired of wandering. Right now I just want to sit down and go to the tavern with my old friend.
+Caizen...
+Stop. I already know. I saw it in your eyes when we first met and I can see the special way you've guided Tam, Tryggvar and that fool Karl. Now shut up and let's get a drink at the tavern.
+*encounter 7
+We need to talk.
+Caizen, welcome-
+Agh, Ascended give me patience. Shut up, stop small talking, and listen. Its as bad as it sounds.  I need one of your companions.
+Caizen, slow down.  Tell me...
+Stop it.  You know exactly what this is about and its time you stopped hiding from it.  They remember us.  What we did to them.
+They are just animals.  They may be big but-
+Mudak, you really are living a dream since Manan. Wake up!  You are not "The Grandmaster." You have a name.  I've seen you cry before over her body.  Would you stop pretending you are a shopkeep for one damn minute.  After it talked.
+It didn't talk.  It's a mimic it just-
+All those years and you just kept saying the same damn thing.  And you knew the whole time what the monsters are.  And they just tore Pyren Farstad apart.
+I don't believe it.
+Agh! I don't give a damn if you believe it or not but there is a troll and worm eating villages as we speak, so send me some help or watch Yhomstad besieged.
+I'll...I'll send someone.
+The Chovo Frontier.  Be swift.
+Authu- Gah sorry, Grand Master.  I'm scared.  I'm really scared.  More scared then I've ever been.
+Caizen...good hunting old friend.
+Good hunting. I only supply the best hunting.  Farewell!
+
+

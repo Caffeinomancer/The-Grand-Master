@@ -1,0 +1,23 @@
+*encounter1*
+Wasal and Well Met, son of the north!  May your Vars be true and your dealings straight.
+And may your oaths be watched as well friend. Who are you?
+I was Vagar and then I was Oathkeeper of the Varags.  Or at least I was, before this faithless time.
+How did that work for you?
+If a Varag breaks any oath, I challenge them to redeem their honor before the Lord of Oaths.  No one regained their honor as you can see.  But that was long ago.
+What News from the north?
+Beware of the Argrvandr.  Faithless oathbreakers, the lot of them and they take great joy in betraying those who swear true.  They'd even raid their own kin who settle on the coast!
+*encounter2*
+Well met again Grandmaster.  I trust you have kept your oaths.
+Where have you been Vagar?
+I returned home, to Lanstad for a time.  Or where Lanstad was because I cannot find it anymore.
+How did you forget where your home was?
+It was buried under the clear ice sheets and I only faintly see the Stave Temple beneath my feet.
+Tragic.
+Tis indeed.
+What news from the north then?
+While I took a sojourn across the sea, there was word that the Lord of Oaths has abandoned the Varags and now wanders here among the Stadar.
+Do you have any souvenirs from home then?
+I have cloak of Raven Feathers.  They say that when the Lady of the Winds favors you, you can leap into the air and spread your wings like a raven.
+"They" usually don't have your health in mind.
+Farewell Grandmaster.
+*trigger Lord of Oaths Quest*

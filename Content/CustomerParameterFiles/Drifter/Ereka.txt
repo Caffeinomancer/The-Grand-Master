@@ -1,0 +1,18 @@
+*encounter1*
+Wasal.  Grandmaster, I need to talk to you.
+Go ahead Ereka.
+You are a great warrior I hear and your Hall Companions are renowned.  So in the name of the pillar of honor, help me against the Argrvandr.
+I'm not sure what you want from me.
+I need you to send a warrior who can lead a militia to protect my kinsmen on the coast.  The Great Lawless Host is about and those Oathless Argrvandr are burning farmsteads wherever they go.
+I'm not a warrior anymore and neither are my adventurers.  
+Please reconsider this. They may not look like snarling demons, but the Argrvandr are monsters. We must fight them.
+I don't get involved in politics.  But I'll consider this.
+Thank you.  We will wait for you decision.
+*encounter2*
+I need your help one more time.
+What is it this time?
+The victory your adventurers won was amazing.  And for the first time the settlers are ready to fight.  We have laid siege to the Argrvandr fortress.  All we want is for you to send another warrior.
+I told you what I think about your local politics.
+Grandmaster.  These people have meanaced the coast for years.  We need your help.
+Gah.  I'll consider it but don't expect anything.
+Thank you again.

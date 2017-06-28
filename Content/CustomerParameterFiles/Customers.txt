@@ -1,0 +1,99 @@
+*Customer number (this is in numerical order)
+*Name
+*Money
+*Trust (Between 0 and 1)
+*Appraisal Base (0-1, but can be higher if you want, so 0-2 is fine)
+*Dominate Trait (0-Aesthetics, 1-Fuctionality, 2-Intelligence, 3-Stupidity)
+*Secondary Trait (0-Aesthetics, 1-Fuctionality, 2-Intelligence, 3-Stupidity)
+*Desired Item (0-Food, 1-Weapon, 2-Armor)
+*
+*Customer 1:
+0
+Dargos Milos
+4000
+0.55
+1
+0
+2
+0
+*Customer2:
+1
+Raggedy Ragnar
+400
+0.2
+0.5
+2
+0
+0
+*Customer3:
+2
+Desna Horndrinker
+600
+0.5
+0.4
+0
+3
+0
+*Customer4:
+3
+Zalk Haamaar
+5000
+0.4
+1
+0
+3
+1
+*Customer5:
+4
+Han Lazi
+1000
+0.4
+0.7
+2
+1
+1
+*Customer6:
+5
+Kermet the Hermit
+850
+0.6
+0.6
+0
+2
+0
+*Customer7:
+6
+Ereka
+1000
+0.4
+0.6
+3
+1
+1
+*Customer8:
+7
+Loric
+500
+0.6
+0.4
+0
+3
+2
+*Customer9:
+8
+Knarr
+2000
+0.5
+1
+1
+2
+0
+*Customer10:
+9
+Yngvar
+1000
+0.5
+0.5
+1
+0
+0

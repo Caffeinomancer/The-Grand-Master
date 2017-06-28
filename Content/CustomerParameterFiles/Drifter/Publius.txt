@@ -1,0 +1,29 @@
+*encounter1
+Awey! I am Publius of of Roneven. I bring gifts for the barbarians of Yhomstad!
+Thank you, but I won't accept gifts. This is a shop, you can sell something to me if you wish.
+This is a shop? Well, I'm not interested in money today. Who are you? Can barbarians run shops?
+I am the Grand Master.
+Oh, I have heard of a Grand Master. Interesting. I suppose I could ask you some questions.
+Questions? Fine. But if a customer comes in, you leave.
+What is your role here in Yhomstad? The people in my Roneven Empire know of you, but not much.
+I am only a traveler settling down to make a real living.
+An "experienced" barbarian like yourself must know a lot about the region. Perhaps I'll return in the future with more questions. Thanks, barbaroi.
+*encounter2
+Awey! I am Publius of of Roneven. I have gifts for the barbarians of Yhomstad!
+I've seen you here before, Pub. We've already gone over this.
+I'm surprised you have the memory of me, thanks barbaroi. Don't call me Pub.
+I'm sure you remembered me. You have a question I assume, so out with it.
+Questions? If you insist. Yhomstad is mainly a fishing village, you can access Yhomstad from the ocean, yes?
+Well Pub, you could sail out from the harbor yourself and find out. I'm just a shopkeeper.
+Puttana. You were a traveler, you must know where the water leads. What about the mountains surrounding Yhomstad?
+Dangerous. Tall. Trolls and worms live among them. Anything else?
+That's it? You have nothing else to say about them? Fine. I'll leave, but if I need anything from you I'll come back!
+*encounter3
+Awey! I am Publius of of Roneven. I have gifts for the Yhomstad barbarians!
+I'm sure the barbarians are grateful. What questions do you have for me now?
+I do have a question and it's an important one.
+What about Yhomstad's location do you need to know, centurion?
+Ah, so you caught on. I suppose I was less than subtle with my inquiries, but I figured a barbarian wouldn't think twice.
+You're a spy, Pub. I won't give you any more advice for your war strategies.
+These strategies aren't necessarily for an offensive, but a defensive, but thanks barbaroi.
+I was hoping you would be insightful, but I was wrong. I won't be returning. Farewell.

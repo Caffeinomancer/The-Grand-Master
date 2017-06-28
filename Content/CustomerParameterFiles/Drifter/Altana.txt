@@ -1,0 +1,29 @@
+*encounter1
+What is this, a shop? Do you sell weapons? I'm Altana.
+This is my shop, what are you looking for in a weapon?
+Well... I was just window shopping. I guess I'll just leave.
+You must have come in for a reason.
+No, I was just curious. Don't mind me, I'll just leave. I was only visiting.
+Visiting from Byzhan. You're a corsairess, why are you in Yhomstad?
+Yes, from Byzhan. I'm assuming you've heard of me, that's how you know I'm a corsairess.
+I'm stuck here in the meantime, but soon I'll get back at that mudak who stole my ship.
+There must be weapon I can afford out there somewhere. Preferably one free for the taking. Who are you, anyway?
+The locals refer to me as the Grand Master.
+Ohhh, so not a grandmaster, you're not the leader of some guild or order. I like that. Hmm, I'll see you around, Grand Master.
+*encounter2
+Hello "Grand master". "Asena's wisdom be- or, my wisdom be upon you", hah!
+You're comparing yourself to the great wolf Asena? Are you sure you measure up?
+Po-Shol na hui! Hah! I like to think I'm a wise corsairess, but the situation I've got myself in might say otherwise.
+Speaking of my situation, I have my weapon, but now I need a plan.
+I need to lure the man who stole my ship back near Svarten Yod, so I'll make it sound like there's a great deal to be had in Yhomstad.
+Don't draw attention to my shop! I'm not looking for any.
+Oh don't worry, I'll kill him right at the dock, before he can even leave Svarten Yod!
+I'll be sure to come back and tell you how it went Grand Master!
+*encounter3
+Menda, Grand Master! Great news!
+Altana, a man never came here looking for a deal that never existed. I am grateful.
+So you noticed. That mudak payed and now I have my ship. I bet you thought I couldn't do it!
+When I first met you, I thought you were going to steal a weapon from me.
+I have a little more respect for the Grand Master than that!
+I never doubted you could do it. Just try to keep your ship this time.
+Hah! I'll be far wiser from here on out. Farewell, Grand Master. Altana's wisdom be upon you!

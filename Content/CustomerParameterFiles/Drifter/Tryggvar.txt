@@ -1,0 +1,53 @@
+*encounter1
+Where can I find the one they call Grand Master old man?
+I am the one they Grand Master young man.
+Forgive me. I've come a long way to offer you my arms. I am Tryggvar of the Varags! I eat, drink, and raid!
+I feel uncertain. What are your talents?
+I am a Varag in every sense. I've fought the Argvandr, been to Pyren Farstad, and am steadfast in the three pillars.
+You're a big Varag aren't you. Muscle all muscle, I could use muscle.
+Your enemies are my enemies. I'll ensure not one penning goes unaccounted for in this shop. In exchange teach me how to monster hunt. By the Lord of Oaths I take this Var.
+*encounter2
+So tell me Grand Master. What are your war stories? Only the most renown Varag names echo through the throat songs back to the motherland. Why haven't I heard of before? 
+I departed from the motherland long ago, soon as I could walk. You were most likely never born.
+Old traditions like throat songs die hard. As you know the motherland is a dying frozen place. Nobody desires to go back. I can assure you here however in Fortaris there are many songs sung of me.
+Ayyy... you have me there. I came over the Great North Sea like everyone else. The plight froze the soil, no food would grow, and the rivers never thawed in spring.
+I can see why people are content with Yhomstad. As a young boy I set to be the next Yhorm the Storm. Yet whatever I did paled always to the mighty Grand Master.
+What did you hear about me?
+I slayed many men but the the Grand Master slayed giant trolls. Where it took entire warbands to quell Argvandr raids the Grand Master with his trusty companions outfoxed them. Even your Firelock is known for the number of worms you put down.
+I see customers that need tending to. Go to the tavern or ask Caizen next time about my throat songs. He only knows the ones we share., but his singing voice is better than mine.
+Very well. Tryggvar knows nothing about coin handling. I shall inquire more and we will return to this.
+Once business slows down I'll answer your questions.
+*encounter3
+Grand Master, business is slow and you owe me answers from last time.
+Tryggvar at times I wished you spoke to me more  respectfully.
+I had to drink and buy a few rounds to get people to sing your throat songs. They chose to sing about your adventuring group? I'm curious...
+We never called ourselves anything. We caught the eyes of many. I a Varag, Caizen a Byzhan, and also our Ronevin friend. This was decades ago when there was still a language barrier, and both nations were expanding.
+I care not about history. How did you do it? Who did you kill, how did you get the name the Grand Master!
+I was like you when I first stepped off the boat. My ignorance was a lock, and knowledge was my key. You'll need the history as context.
+Wish I drank more mead at the tavern. Very well... I'll bite my tongue.
+When I met Caizen he was a translator. Spoke all three languages fluently. He wanted to bridge our people and trade like Byzhans do best. He taught me about the Byzhans, the Ronevin Empire, and how to speak the language. In exchange I provided my services as a body guard..
+As soon as our Ronevin friend joined very quickly we went from travelers to adventuring. My peers sought glory with border raids and senseless skirmishes. I decided my glory would be from the impossible. Hunting fabled ancient monsters.
+Crazy, brave.... but revolutionary.
+Frankly we were young and fearless. We didn't realize the real danger was in monster hunting until it was too late...
+Please go on Grand Master.
+We questioned the expected norms. Before the throat songs there was a joke about Caizen. Something about a Byzhan, a Varag, and a Ronevin walk into a bar. The only way we can set an example that our people can coexist was to rise up together.
+We were pioneers. Once all the fights were fought many tried to imitate our hunts. Many failed, and I believe those fools awoke all the monsters across the land.
+You've told me more than your fair share. My head is sobering up and I need to process.
+*encounter4
+One last time Grand Master. I request you tell me more about your past adventures.
+One last time I shall oblige you.
+Yhorm the Storm battled countless monsters. Since his time only the lucky have encountered them, and a even fewer were able to slay such beasts.
+Ha ha. I know your question already. How I did it? With two things. Gunpowder and my friends.
+I don't believe you.
+Gunpowder came from the ancient dead monsters. In my hunts I encountered more of it. This is how Firelock came to be.
+There is no weapon on this planet like her. You recognize your companions too?
+The truth is that there was very few things I accomplished on my own. My fame eventually outgrew Caizen's and the group's.
+I only realize it now as an old man. I was blind full of pride then. I forced us to constantly to search for more things to hunt, stronger, and bigger. Just to fill my taste for fame.
+I'm listening to your story now. You talk of Caizen but you haven't even mentioned your Ronevin friend. The Lord of Oaths frowns upon such Argar actions.
+My personal chase for fame eventually led us to the Manan Forest, and to a monster I've never seen before.
+Did you say... the Manan?
+Yes... needless to say we failed. That was my last hunt. We lost our Ronevin friend. Caizen was in love with her. He left me in anger. My last and only true friend. In that loneliness I took a Var to forget her, and retired to get away from my greatest failure.
+I confess. I only appear rude and prideful to you, because I idolize you. Though when I became your adventurer you were nothing like I imagined, and now I know how you came to be the Grand Master.
+I am only the Grand Master because I was the best monster hunter, I have knowledge of all my failures and that cost me. Seeing Caizen after all these years I think he's ready to reconcile. 
+As a child I'd play fight as Yhorm the Storm. In my youth hearing about how the Grand Master slayed a worm only fueled my ambitions to be more like you. 
+As do many other Varags. Tryggvar we come from a hot blooded people. You are a capable warrior with much potential. You can't be me, but be better. Use your mind, and keep to the three pillars. One day you will have a throat song that reaches back to the motherland.

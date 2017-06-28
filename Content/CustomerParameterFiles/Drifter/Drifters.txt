@@ -1,0 +1,20 @@
+*Name
+*boss type 0-4 (fireWorm, iceWorm, small troll, big troll, final)
+*spawn number (which encounter does the boss spawn in)
+*number of encounters
+Hus
+2
+1
+1
+Tam
+1
+5
+5
+Loric
+0
+1
+1
+Karl
+4
+4
+4

@@ -1,0 +1,79 @@
+$encounter 1$
+Ummm...hello. Are you the Grandmaster? I'm Karl and I...uh...I'm an adventurer you see and I want to...um...work for you.
+Is that so?
+Aye, I've been trying to get experience adventuring but I've never really had the chance to do it, and now you've, uh, become a figment in the town and Tam said I should go for it.
+I see.  Any meaningful experience?
+Nothing much really. I'm just a farmer. I've actually never held a weapon. Except an axe. But it was a chopping axe...not a battle axe. I almost chopped off Tam's toes then.
+So Tam put you up to this?
+Yes Tam! She's my best friend, and uh, well she's always been there for me and bringing me on her adventures. At least she uh, used to.
+And why would I ever consider hiring you?
+Well I...look I'm not going to lie, I've never really adventured before. I'm kind of new but...look I really want to help out around here. People don't really like me and...I don't know I feel like I could actually do some good here. At least, Tam thinks I could.
+Really! You won't regret this Grandmaster! I'll pull my weight and try not to mess this up!
+$encounter 2$
+Menda Grandmaster.  I...I just wanted to thank you. For giving me this chance.
+Well, You haven't failed catastrophically yet.
+Do you...have a minute?  I'd like it if you could show me some of your tricks...Tam said I needed some practice.
+Of course!  If anything I can show you will keep you out of a Worm's maw. I'll do it.
+Ah.  You remember that.  Well thank you.  Any advice for me going forward?
+Prepare yourself before you hit a target.  Find out from the locals everything that can be used against it.
+I'll keep your words in mind.  And thanks again.
+Wait.  One more thing.
+What is it?
+Never underestimate a monster.  They may look stupid but they can outwit you in seconds.
+But they are animals right?  Just dumb beasts.
+Er...yes, but even a dumb animal can have some low cunning.  A wolf  can play with you just as a troll can pick up a tree and beat you to death.
+I think I get it then.  Thank you!
+$encounter 3$
+Uh. Menda Grandmaster.
+Menda Karl.
+I was just coming into see if there's anything I could do to help for the night.
+Not really Karl.  I've shut up shop for the night.
+I'll....I'll just be going now.
+Ah, Stay awhile.  I could use the company.
+Of course, Bataar...can I ask you a question?
+You just did Karl, so yes, you can.
+Ha...so Grandmaster, why did you end up here?  I noticed you have an accent but I don't recognize it.
+Its because I'm a Varag.
+Oh!  I'm sorry it doesn't sound like a Varag accent.
+Its because I grew up almost fifty years ago.  Varags are very different now.
+Fifty years ago? Then you grew up during the raiding age.  Did you, uh...come here on -
+No I didn't come here on a raid.  I didn't have the stomach for it.
+Oh.  Then why did you come here?  The ice-sheets?
+No. It just wasn't my home and I wanted find where that was.  I took a ship to a little port called Yhomstad and got my first job.
+Did you find that?
+My path has brought me here twice, in the beginning and at the end.  So yes, I think I have.
+I, uh, I hope you stay too....I've got one more question.
+Go ahead?
+Why did you choose to let me stay?  I'm not, Um, I wasn't at all worthy to serve under you.
+Because once upon a time a village idiot bought a spear and crossed the Sea of Teeth, coming to a village named Yhomstad.
+(Karl nods once, a small smile growing) Thank you, Grandmaster.
+$encounter 4$
+Grand Master! Caizen! It was incredible!  He held both of them off himself!
+What do you mean boy?
+We went to the Chovo frontier!  We came to the village of Goroda. We were stopping to eat and then out of nowhere a worm can tunneling out of the ground!
+...
+Caizen picked up his sabers and charged in.  Me and the others led the villagers out of the town.
+Caizen...he-
+He didn't make it.
+...
+Grand Master?
+...
+He drove them to the coast. I think I know where they went.
+Karl.  Stay here.
+Grand Master where are you-?
+Karl, I have a secret to tell you.
+W-what?
+I did have a secret to fighting monsters.
+What is it?
+They are sapient.
+What?
+The monsters are sapient and I've known this.
+But how.  You said they were dumb beasts...
+I lied. They are fully self-aware. And have long memories.
+Then...
+Yes. They came for Caizen. And they are baiting me.
+Then you won't go?
+No.  I'm going now.
+But you said they are-
+Baiting me, yes. But I'm not going to let them kill anyone else.
+I...alright.  Asena's fortune be with you!
