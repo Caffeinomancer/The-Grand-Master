@@ -1,0 +1,9 @@
+Health:
+450
+~
+BulletDamage:
+7.5
+~
+NumberOfBullets:
+60
+~
